@@ -4,7 +4,7 @@
 
 [![gabrielmxavier's github stats](https://github-readme-stats.vercel.app/api?username=gabrielmxavier&show_icons=true&theme=highcontrast)](https://github.com/gabrielmxavier/github-readme-stats)
 
-**Exploring new technologies and developing small projects to get experience. Check it out some of my Projects.**
+**Here it's some Projects that I have built.**
 
 <a href="https://gabrielmxavier.github.io/OmniFood/">
   <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/omnifood.png"> 
@@ -25,7 +25,7 @@
 
 **About me :hand:**
 
-💬 I am a Navigational Officer who likes to build things in Javascript that’s one of the reasons I have started System Analysis and Development degree at University.
+💬 I am a Navigational Officer who likes to build things in Javascript. That’s one of the reasons I have started System Analysis and Development degree at University.
 
 🔭 I’m currently working on Mapty App Project
 
@@ -44,7 +44,7 @@
 
 <br/>
 
-**First blog post on Medium that I've written in Portuguese.**
+**First blog post on Medium that I have written in Portuguese.**
 
 [![Gabriel Xavier Medium](https://github-readme-medium.vercel.app/?username=gabrielxavierbonano)](https://medium.com/@gabrielxavierbonano)
 <!--
