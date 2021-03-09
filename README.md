@@ -21,7 +21,9 @@
 
 **About me :hand:**
 
-I have Bachelor of Science in Nautical Science but what i really like to do it’s to build things in JS that’s one reason of why I’m going to study System Analysis and Development soon at University.
+💬 I am a Navigational Officer who likes to build things in Javascript that’s one of the reasons I have started System Analysis and Development degree at University.
+
+🔭 I’m currently working on Mapty App Project
 
 **Languages and Tools:**
 
