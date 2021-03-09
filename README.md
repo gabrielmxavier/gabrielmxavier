@@ -4,27 +4,6 @@
 
 [![gabrielmxavier's github stats](https://github-readme-stats.vercel.app/api?username=gabrielmxavier&show_icons=true&theme=highcontrast)](https://github.com/gabrielmxavier/github-readme-stats)
 
-**About me :hand:**
-
-I have Bachelor of Science in Nautical Science but what i really like to do it’s to build things in JS that’s one reason of why I’m going to study System Analysis and Development soon at University.
-
-**First blog post on Medium that I've written in Portuguese.**
-
-[![Gabriel Xavier Medium](https://github-readme-medium.vercel.app/?username=gabrielxavierbonano)](https://medium.com/@gabrielxavierbonano)
-
-**Languages and Tools:**
-
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/javascript.png"><img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/react.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/vue.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/bootstrap.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/css.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/materialize.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/sass.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/vscode.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/git.png"> 
-
-
-
 **Exploring new technologies and developing small projects to get experience. Check it out some of my Projects.**
 
 <a href="https://gabrielmxavier.github.io/OmniFood/">
@@ -40,6 +19,26 @@ I have Bachelor of Science in Nautical Science but what i really like to do it�
   <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/songapp.png"> 
 <a/>
 
+**About me :hand:**
+
+I have Bachelor of Science in Nautical Science but what i really like to do it’s to build things in JS that’s one reason of why I’m going to study System Analysis and Development soon at University.
+
+**Languages and Tools:**
+
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/javascript.png"><img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/react.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/vue.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/bootstrap.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/css.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/materialize.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/sass.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/vscode.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/git.png"> 
+
+<br/>
+
+**First blog post on Medium that I've written in Portuguese.**
+
+[![Gabriel Xavier Medium](https://github-readme-medium.vercel.app/?username=gabrielxavierbonano)](https://medium.com/@gabrielxavierbonano)
 <!--
 **gabrielmxavier/gabrielmxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
