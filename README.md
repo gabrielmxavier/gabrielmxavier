@@ -4,11 +4,11 @@
 
 [![gabrielmxavier's github stats](https://github-readme-stats.vercel.app/api?username=gabrielmxavier&show_icons=true&theme=highcontrast)](https://github.com/gabrielmxavier/github-readme-stats)
 
-## About me :hand:
+**About me :hand:**
 
 I have Bachelor of Science in Nautical Science but what i really like to do it’s to build things in JS that’s one reason of why I’m going to study System Analysis and Development soon at University.
 
-## MY FISRT BLOG POST ON MEDIUM THAT I'VE WRITTEN IN PORTUGUESE
+**First blog post on Medium that I've written in Portuguese.**
 
 [![Gabriel Xavier Medium](https://github-readme-medium.vercel.app/?username=gabrielxavierbonano)](https://medium.com/@gabrielxavierbonano)
 
@@ -25,7 +25,8 @@ I have Bachelor of Science in Nautical Science but what i really like to do it�
 
 
 
-## Exploring new technologies and developing small projects to get experience.
+**Exploring new technologies and developing small projects to get experience. Check it out some of my Projects.**
+
 <a href="https://gabrielmxavier.github.io/OmniFood/">
   <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/omnifood.png"> 
 <a/>
