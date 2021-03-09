@@ -32,7 +32,6 @@ I have Bachelor of Science in Nautical Science but what i really like to do itâ€
 <a href="https://gabrielmxavier.github.io/DaysCounter/">
   <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/days.png"> 
 <a/>
-  
 <a href="https://gabrielmxavier.github.io/Exchange-rate/">
   <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/exchangeLive.png"> 
 <a/>
