@@ -27,7 +27,7 @@ I have Bachelor of Science in Nautical Science but what i really like to do itâ€
 
 ## Exploring new technologies and developing small projects to get experience.
 <a href="https://gabrielmxavier.github.io/OmniFood/">
-  <img height="80" style="padding:50px" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/omnifood.png"> 
+  <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/omnifood.png"> 
 <a/>
 <a href="https://gabrielmxavier.github.io/DaysCounter/">
   <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/days.png"> 
