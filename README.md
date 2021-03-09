@@ -19,11 +19,17 @@
   <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/songapp.png"> 
 <a/>
 
+
+
+<br/>
+
 **About me :hand:**
 
 💬 I am a Navigational Officer who likes to build things in Javascript that’s one of the reasons I have started System Analysis and Development degree at University.
 
 🔭 I’m currently working on Mapty App Project
+
+<br/>
 
 **Languages and Tools:**
 
