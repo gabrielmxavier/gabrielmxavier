@@ -12,7 +12,33 @@ I have Bachelor of Science in Nautical Science but what i really like to do it�
 
 [![Gabriel Xavier Medium](https://github-readme-medium.vercel.app/?username=gabrielxavierbonano)](https://medium.com/@gabrielxavierbonano)
 
-**Languages and Tools:**  
+**Languages and Tools:**
+
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/javascript.png"><img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/react.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/vue.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/bootstrap.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/css.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/materialize.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/sass.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/vscode.png"> 
+<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/git.png"> 
+
+
+
+## Exploring new technologies and developing small projects to get experience.
+<a href="https://gabrielmxavier.github.io/OmniFood/">
+  <img height="100" style="padding:50px" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/omnifood.png"> 
+<a/>
+<a href="https://gabrielmxavier.github.io/DaysCounter/">
+  <img height="100" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/days.png"> 
+<a/>
+  
+<a href="https://gabrielmxavier.github.io/Exchange-rate/">
+  <img height="100" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/exchangeLive.png"> 
+<a/>
+<a href="https://gabrielmxavier.github.io/Searching-Song-Lyrics/">
+  <img height="100" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/songapp.png"> 
+<a/>
 
 <!--
 **gabrielmxavier/gabrielmxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
