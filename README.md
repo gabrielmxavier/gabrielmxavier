@@ -22,7 +22,7 @@
 
 
 <br/>
-
+<!--
 **About me :hand:**
 
 💬 I am a Navigational Officer who likes to build things in Javascript. That’s one of the reasons I have started System Analysis and Development degree at University.
@@ -47,6 +47,7 @@
 **First blog post on Medium that I have written in Portuguese.**
 
 [![Gabriel Xavier Medium](https://github-readme-medium.vercel.app/?username=gabrielxavierbonano)](https://medium.com/@gabrielxavierbonano)
+-->
 <!--
 **gabrielmxavier/gabrielmxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
