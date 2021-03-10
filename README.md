@@ -1,4 +1,4 @@
-<!--![](https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/top.png)-->
+![](https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/top.png)
 
 ### G'day mate !! How's it going ? 👋
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -23,7 +23,7 @@
 
 <br/>
 
-<!--![](https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/bottom.png)-->
+![](https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/bottom.png)
 <!--
 **About me :hand:**
 
