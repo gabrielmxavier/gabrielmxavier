@@ -21,11 +21,11 @@
 
 <br/>
 
-**First blog post on Medium that I have written in Portuguese.**
-<!--
+**Latest Medium article written by me.**
+
 <a href="https://medium.com/@gabrielxavierbonano">
   <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/medium.png"> 
-<a/>-->
+<a/>
 <!--
 **About me :hand:**
 
@@ -35,7 +35,7 @@
 
 <br/>
 
-**First blog post on Medium that I have written in Portuguese.**
+**Latest Medium article written by me.**
 
 [![Gabriel Xavier Medium](https://github-readme-medium.vercel.app/?username=gabrielxavierbonano)](https://medium.com/@gabrielxavierbonano)
 -->
