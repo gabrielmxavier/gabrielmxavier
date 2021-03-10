@@ -1,7 +1,7 @@
 ![](https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/top.png)
 
 ### G'day mate !! How's it going ? 👋
-
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](https://visitor-badge.laobi.icu/badge?page_id=gabrielmxavier.gabrielmxavier)
 
 [![gabrielmxavier's github stats](https://github-readme-stats.vercel.app/api?username=gabrielmxavier&show_icons=true&theme=highcontrast)](https://github.com/gabrielmxavier/github-readme-stats)
