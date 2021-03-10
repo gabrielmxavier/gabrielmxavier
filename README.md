@@ -1,6 +1,8 @@
 ### G'day mate !! How's it going ? 👋
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](https://visitor-badge.laobi.icu/badge?page_id=gabrielmxavier.gabrielmxavier)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Xavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-xavier-1a5b5b120/)](https://www.linkedin.com/in/gabriel-xavier-1a5b5b120/)
+[![Gmail Badge](https://img.shields.io/badge/-Contact_email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielxavierbonano@gmail.com)](mailto:gabrielxavierbonano@gmail.com)
 
 [![gabrielmxavier's github stats](https://github-readme-stats.vercel.app/api?username=gabrielmxavier&show_icons=true&theme=highcontrast)](https://github.com/gabrielmxavier/github-readme-stats)
 
