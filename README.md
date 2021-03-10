@@ -1,4 +1,4 @@
-![](https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/top.png)
+
 
 ### G'day mate !! How's it going ? 👋
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -23,26 +23,13 @@
 
 <br/>
 
-![](https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/bottom.png)
+
 <!--
 **About me :hand:**
 
 💬 I am a Navigational Officer who likes to build things in Javascript. That’s one of the reasons I have started System Analysis and Development degree at University.
 
 🔭 I’m currently working on Mapty App Project
-
-<br/>
-
-**Languages and Tools:**
-
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/javascript.png"><img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/react.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/vue.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/bootstrap.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/css.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/materialize.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/sass.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/vscode.png"> 
-<img height="40" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/git.png"> 
 
 <br/>
 
