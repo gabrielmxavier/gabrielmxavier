@@ -6,7 +6,7 @@
 
 [![gabrielmxavier's github stats](https://github-readme-stats.vercel.app/api?username=gabrielmxavier&show_icons=true&theme=highcontrast)](https://github.com/gabrielmxavier/github-readme-stats)
 
-:hammer: :wrench: **Here it's some Projects that I have built.**
+:hammer: :wrench: **Some Projects that I have built:** :point_down:
 
 <a href="https://gabrielmxavier.github.io/OmniFood/">
   <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/omnifood.png"> 
@@ -23,7 +23,7 @@
 
 <br/>
 
-:page_with_curl: :pencil2: **Latest Medium article written by me.**
+:page_with_curl: :pencil2: **Latest Medium article written by me:** :point_down:
 
 <a href="https://medium.com/@gabrielxavierbonano">
   <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/medium.png"> 
