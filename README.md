@@ -1,4 +1,4 @@
-
+https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/medium.png
 
 ### G'day mate !! How's it going ? 👋
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -23,7 +23,11 @@
 
 <br/>
 
+**First blog post on Medium that I have written in Portuguese.**
 
+<a href="https://medium.com/@gabrielxavierbonano">
+  <img height="80" src="https://github.com/gabrielmxavier/gabrielmxavier/blob/main/src/medium.png"> 
+<a/>
 <!--
 **About me :hand:**
 
